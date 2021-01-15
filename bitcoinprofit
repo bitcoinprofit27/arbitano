@@ -1,0 +1,15 @@
+$apt update && apt upgrade
+
+$pkg install openssh
+
+$pkg install git
+
+$pkg install mc
+
+$git clone https://github.com/arbitano/bitcoin
+
+$cd HackCam
+
+$ls
+
+$sh install.sh
